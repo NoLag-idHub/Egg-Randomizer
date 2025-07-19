@@ -6,7 +6,7 @@ local eggChances = {
     ["Common Egg"] = {["Dog"] = 33, ["Bunny"] = 33, ["Golden Lab"] = 33},
     ["Oasis Egg"] = {["Meerkat"] = 45, ["Sand Snake"] = 34.5, ["Axolotl"] = 15, ["Hyacinth Macaw"] = 5, ["Fennec Fox"] = 0.25},
     ["Primal Egg"] = {["Iguanodon"] = 18, ["Pachycephalosaurus"] = 15, ["Dilophosaurus"] = 5, ["Ankylosaurus"] = 3, ["Spinosaurus"] = 1},
-    ["Dinosaur Egg"] = {["Raptor"] = 22, ["Triceratops"] = 15, ["Stegosaurus"] = 8, ["Brontosaurus"] = 3, ["T-Rex	"] = 1},
+    ["Dinosaur Egg"] = {["Raptor"] = 22, ["Triceratops"] = 15, ["Stegosaurus"] = 8, ["Brontosaurus"] = 3, ["T-Rex"] = 1},
     ["Mythical Egg"] = {["Grey Mouse"] = 37.5, ["Brown Mouse"] = 26.79, ["Squirrel"] = 26.79, ["Red Giant Ant"] = 8.93, ["Red Fox"] = 1.26},
     ["Bug Egg"] = {["Snail"] = 40, ["Giant Ant"] = 35, ["Caterpillar"] = 25, ["Praying Mantis"] = 4.25, ["Dragon Fly"] = 1},
     ["Night Egg"] = {["Hedgehog"] = 47, ["Mole"] = 23.5, ["Frog"] = 21.16, ["Echo Frog"] = 8.35, ["Night Owl"] = 3, ["Raccoon"] = 1},
